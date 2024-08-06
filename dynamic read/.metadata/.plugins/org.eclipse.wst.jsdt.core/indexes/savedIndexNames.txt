@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\java practice\dynamic read\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3899006616.index
+2542083901.index
+3959891462.index
+1872161140.index
+3522804750.index
+2008128718.index

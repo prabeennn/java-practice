@@ -1,0 +1,13 @@
+package com.methodRefrence.practice;
+
+interface C{
+	int apply(int a, int b);
+}
+public class Nonstatic_1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

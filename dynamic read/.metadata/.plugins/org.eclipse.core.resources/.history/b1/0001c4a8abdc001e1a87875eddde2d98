@@ -1,0 +1,27 @@
+package upcasting;
+class Car{
+	
+}
+class Audi extends Car{
+	
+}
+class BMW extends Car{
+	
+}
+class Driver{
+	void drive(Car c) {
+		System.out.println("Executing Drive()");
+	}
+}
+public class Upcast_3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Driver d=new Driver();
+		d.drive(new Audi());
+		d.drive(new BMW());
+		d.drive(null);
+
+	}
+
+}
